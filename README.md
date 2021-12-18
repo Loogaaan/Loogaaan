@@ -1,16 +1,16 @@
-### Hi there 👋
+###  LOGAN <img src="https://cdn.discordapp.com/emojis/799954767429500939.gif?v=1" width="28px"/>
 
-<!--
-**Loogaaan/Loogaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### 🧪 Hi, I'm a programmer, for now my teachings are very basic, but I intend to improve myself in JS and Py.
 
-Here are some ideas to get you started:
+#### 🌍 Bordeaux, France
+#### ✨ I intend to improve my knowledge in all possible areas
+---
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/90/af/f5/90aff5c7eca36889703a1ee6fcd4d178.gif" height="280px" width="454px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### <img src="https://cdn.discordapp.com/emojis/797877059103096862.gif?v=1" width="18px"> N'importe qui peut écrire du code que l'ordinateur comprend. Les bons programmeurs écrivent du code que les humains comprennent. <img src="https://cdn.discordapp.com/emojis/797877059103096862.gif?v=1" width="18px">
+
+#
+---
+#
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yasuoVIII&show_icons=true&theme=radical" alt="yasuoVII"/></p>
